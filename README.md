@@ -1,6 +1,6 @@
 # Drone Tilt Detection
 
-**Attitude estimation and a tilt alarm for a drone, on an ESP32-S3.** Two sensors that are each
+**Altitude estimation and a tilt alarm for a drone, on an ESP32-S3.** Two sensors that are each
 unusable on their own, fused into one angle estimate that is smooth *and* still correct a minute
 later.
 
